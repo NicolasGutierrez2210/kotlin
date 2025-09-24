@@ -1,4 +1,4 @@
-# Algoritmos en Kotlin
+# Algoritmos usando Kotlin
 
 Este repositorio contiene implementaciones basicas en Kotlin de:
 
