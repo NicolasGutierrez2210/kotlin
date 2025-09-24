@@ -12,7 +12,7 @@ Este repositorio contiene implementaciones basicas en Kotlin de:
 ##  Requisitos
 Estar en el navegador de tu preferencia y seguir el siguiente paso: 
 Compilarlo desde: [Kotlin Command Line](https://play.kotlinlang.org/)
----
+
 ## Archivos
 - Primos.kt → Verifica si un numero es primo
 
