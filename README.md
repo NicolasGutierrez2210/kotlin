@@ -14,11 +14,11 @@ Estar en el navegador de tu preferencia y seguir el siguiente paso:
 Compilarlo desde: [Kotlin Command Line](https://play.kotlinlang.org/)
 
 ## Archivos
-- Primos.kt → Verifica si un numero es primo
+- esprimo.kt → Verifica si un numero es primo
 
-- Euclides.kt → Calcula el MCD con el algoritmo de Euclides
+- euclides.kt → Calcula el MCD con el algoritmo de Euclides
 
-- Factorial.kt → Calcula el factorial.
+- factorial.kt → Calcula el factorial.
 
-- DFS.kt → Implementa busqueda en profundidad con pila.
+- dfs.kt → Implementa busqueda en profundidad con pila.
 ---
