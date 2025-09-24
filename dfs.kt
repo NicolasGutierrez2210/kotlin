@@ -16,7 +16,7 @@ fun main() {
 // DFS iterativo usando pila 
 
 fun dfsConPila(inicio: Int, grafo: Map<Int, List<Int>>, visitados: MutableSet<Int>) {
-    val pila = ArrayDeque<Int>()            // Creación de la pila
+    val pila = ArrayDeque<Int>()            // Creacion de la pila
     pila.addLast(inicio)                    // Agregacion  del nodo inicial
 
     while (pila.isNotEmpty()) {             // Mientras haya elementos en la pila
@@ -33,4 +33,5 @@ fun dfsConPila(inicio: Int, grafo: Map<Int, List<Int>>, visitados: MutableSet<In
             }
         }
     }
+
 }
